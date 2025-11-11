@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Costo de Envío",
+  "description": "Una aplicación para distribuir equitativamente los costos de envío entre múltiples productos y determinar su precio de costo ajustado.",
+  "requestFramePermissions": []
+}
